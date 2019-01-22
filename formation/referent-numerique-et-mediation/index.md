@@ -19,7 +19,11 @@ L’objectif de la formation référent numérique est de préparer aux métiers
 
 Formation en présentiel 4 mois ( 560 heures) avec en plus 2 mois (280h) en entreprise.
 Elle se tiendra début 2019 à Ambérieu-en-Bugey. La formation mélangera contenus théoriques par des praticiens et exercices pratiques.
-Des odules indépendants peuvent être proposés pour les professionnels de la région.
+Elle s'adresse à des personnes ayant une culture générale de base en informatique (pas besoin de déjà savoir coder!) motivées pour développer fortement ces compétences.
+
+Les apprenant(e)s auront accès à un Fab Lab et un réseau professionnel important tant au niveau local (les entreprises membres du LAB01), que régionnal (Les Bricodeurs est collectif des professionnels du numérique)
+
+Des modules indépendants seront également proposés pour les professionnels de la région. Vous pouvez vous pré-inscrire avec le lien en bas de page.
 
 ## Déroulé
 
@@ -75,13 +79,22 @@ Des odules indépendants peuvent être proposés pour les professionnels de la r
 
 <div class="center">
   <a href="https://airtable.com/shrdshgSj0JmLDXBZ" class="btn-link">
-      Je m'inscris à l'avance
+      Pré-inscription apprenant(e)s
   </a>
 </div>
+
 
 <hr style="width: 100%; overflow: auto;">
 
 
+<div class="center">
+  <a href="https://airtable.com/shr2EXDYDnC5r2bDI" class="btn-link">
+      Pré-inscription entreprises 
+  </a>
+</div>
+
+
+<hr style="width: 100%; overflow: auto;">
 
 ## Qui organise ?
 
